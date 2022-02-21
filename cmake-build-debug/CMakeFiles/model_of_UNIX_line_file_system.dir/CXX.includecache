@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liliiapavlishin/CLionProjects/college/CS20/Assignemnts/Final Project (Simulation of a linux system)/model of UNIX-line file system/file_system.cpp
+file_system.h
+/Users/liliiapavlishin/CLionProjects/college/CS20/Assignemnts/Final Project (Simulation of a linux system)/model of UNIX-line file system/file_system.h
+string
+-
+iostream
+-
+
+/Users/liliiapavlishin/CLionProjects/college/CS20/Assignemnts/Final Project (Simulation of a linux system)/model of UNIX-line file system/file_system.h
+iostream
+-
+

@@ -1,0 +1,3 @@
+/Users/liliiapavlishin/CLionProjects/college/CS20/Assignemnts/Final Project (Simulation of a linux system)/model of UNIX-line file system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/liliiapavlishin/CLionProjects/college/CS20/Assignemnts/Final Project (Simulation of a linux system)/model of UNIX-line file system/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/liliiapavlishin/CLionProjects/college/CS20/Assignemnts/Final Project (Simulation of a linux system)/model of UNIX-line file system/cmake-build-debug/CMakeFiles/model_of_UNIX_line_file_system.dir

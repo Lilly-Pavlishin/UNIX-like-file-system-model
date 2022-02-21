@@ -1,0 +1,76 @@
+mkdir dir2.0
+chdir dir2.0
+mkfile file2.0
+mkdir dir2.1
+chdird dir2.1
+lsr
+mkfile file2.2
+mkfile file2.1
+chdir /
+mkdir dir1.0
+chdir dir1.0
+mkdir dir1.2
+mkdir dir1.5
+mkdir dir1.1
+lsr
+chdir ..
+chdir dir2.0
+mkfile file2.0
+mkdir dir2.2
+chdir dir2.2
+mkdir dir2.2.0
+mkfile file2.2
+chdir ../..
+pwd
+chdir dir1.0/dir1.1
+mkfile file2
+mkfile file1
+chdir ..
+chdir dir1.2
+mkfile file8
+chdir ..
+pwd
+ls
+chdir dir1.5
+mkfile file1.5.1
+chdir ..
+mkfile file1.0
+pwd
+chdir /dir2.0/dir2.1
+mkfile f3
+mkfiel f8
+mkfile f8
+mkfile f0
+mkfile f2
+chdir ..
+ls
+lsr
+chdir dir2.2/dir2.2.0
+mkfile f3
+mkdir dir2.2.2
+chdir dir2.2.2
+mkfile f2
+mkdir dir2.2.3
+chdir dir2.2.3
+mkfile f12
+mkfile f1
+mkfile f15
+mkfire f3
+chdir /dir1.0
+mkfile f2
+mkfire f1
+mkfile f1
+chdir /dir1.1/dir1.5
+mkfile f1
+mkfile f5
+mkfile f3
+mkfile f15
+mkfile f11
+lsr
+chdir /dir2.0/dir2.1
+rmfile f3
+lsr
+chdir ../..
+rmdir dir1.0
+lsr
+Q
